@@ -1,0 +1,6 @@
+numpy # Replace with your version if different
+pandas  # Replace with your version if different
+matplotlib # Replace with your version if different
+scikit-learn # Replace with your version if different
+streamlit
+tensorflow
